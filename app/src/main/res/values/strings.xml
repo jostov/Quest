@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Quest</string>
+
+    <string name="quest_welcome">Quest</string>
+    <string name="quest_join">Join Quest</string>
+    <string name="action_settings">Settings</string>
+    <string name="waiting">Finding quest...</string>
+    <string name="groupname">Group Code(Optional)</string>
+</resources>
